@@ -17,7 +17,9 @@ or you can just using IDEA or other IDEs to run it.
 
 ### How to play
 Moving: **A S D W**
+
 Fire: **J**
+
 Pause/Continue: **Space**
 
 ------
