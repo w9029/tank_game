@@ -15,6 +15,12 @@ or you can just using IDEA or other IDEs to run it.
 
 ------
 
+### How to play
+Moving: **A S D W**
+Fire: **J**
+Pause/Continue: **Space**
+
+------
 I learned JAVA by writing this program. Check the code, you will find the code is so hard to read, and many unprofessional code. 
 I even named a variable as **aaa**, it's awful and funny, but everyone starts like this.
 
