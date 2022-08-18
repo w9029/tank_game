@@ -1,5 +1,5 @@
 # tank_game
-A tank game wrote in JAVA during the summer of 2016 (my freshman year).
+A tank game wrote in JAVA during the summer of 2017 (my freshman year).
 
 ------
 
