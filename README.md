@@ -5,6 +5,8 @@ A tank game wrote in JAVA during the summer of 2017 (at the end of my freshman y
 
 ### Quick Start
 
+**Run jar file using JAVA:**
+
 This program was written too long ago, so **the version of java should be 1.8**. It won't work if you using a heigher version. 
 
 Be sure you are using java1.8, then you can run it in this way:
@@ -12,6 +14,10 @@ Be sure you are using java1.8, then you can run it in this way:
 java -jar ./out/artifacts/tank_game_jar/tank_game.jar
 ```
 or you can just using IDEA or other IDEs to run it.
+
+**Run exe file on Windows:**
+
+Download Tank1.01_release.zip, decompress it and double click the exe file.
 
 ------
 
